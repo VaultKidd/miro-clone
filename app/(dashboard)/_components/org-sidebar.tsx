@@ -42,7 +42,7 @@ export const OrgSidebar = () => {
               padding: "6px",
               width: "100%",
               borderRadius: "8px",
-              border: "1px solid #E5E7EB",
+              border: "1px solid #E5E7EC",
               justifyContent: "space-between",
               backgroundColor: "white",
             },
