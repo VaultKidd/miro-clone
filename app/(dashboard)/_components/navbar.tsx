@@ -16,7 +16,7 @@ export const Navbar = () => {
       <div className="hidden lg:flex lg:flex-1">
         <SearchInput />
       </div>
-      <div className="block lg:hidden flex-1">
+      <div className="block lg:hidden flex-2">
         <OrganizationSwitcher
           hidePersonal
           appearance={{
